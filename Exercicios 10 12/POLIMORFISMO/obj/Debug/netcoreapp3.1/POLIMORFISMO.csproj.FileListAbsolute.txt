@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\POLIMORFISMO\bin\Debug\netcoreapp3.1\POLIMORFISMO.exe
+C:\Users\fic\Desktop\POLIMORFISMO\bin\Debug\netcoreapp3.1\POLIMORFISMO.deps.json
+C:\Users\fic\Desktop\POLIMORFISMO\bin\Debug\netcoreapp3.1\POLIMORFISMO.runtimeconfig.json
+C:\Users\fic\Desktop\POLIMORFISMO\bin\Debug\netcoreapp3.1\POLIMORFISMO.runtimeconfig.dev.json
+C:\Users\fic\Desktop\POLIMORFISMO\bin\Debug\netcoreapp3.1\POLIMORFISMO.dll
+C:\Users\fic\Desktop\POLIMORFISMO\bin\Debug\netcoreapp3.1\POLIMORFISMO.pdb
+C:\Users\fic\Desktop\POLIMORFISMO\obj\Debug\netcoreapp3.1\POLIMORFISMO.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\POLIMORFISMO\obj\Debug\netcoreapp3.1\POLIMORFISMO.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\POLIMORFISMO\obj\Debug\netcoreapp3.1\POLIMORFISMO.AssemblyInfo.cs
+C:\Users\fic\Desktop\POLIMORFISMO\obj\Debug\netcoreapp3.1\POLIMORFISMO.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\POLIMORFISMO\obj\Debug\netcoreapp3.1\POLIMORFISMO.dll
+C:\Users\fic\Desktop\POLIMORFISMO\obj\Debug\netcoreapp3.1\POLIMORFISMO.pdb
+C:\Users\fic\Desktop\POLIMORFISMO\obj\Debug\netcoreapp3.1\POLIMORFISMO.genruntimeconfig.cache
